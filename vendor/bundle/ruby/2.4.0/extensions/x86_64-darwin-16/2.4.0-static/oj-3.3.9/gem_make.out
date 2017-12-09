@@ -1,0 +1,46 @@
+current directory: /Users/manato/workspace/graphql/vendor/bundle/ruby/2.4.0/gems/oj-3.3.9/ext/oj
+/Users/manato/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20171209-14808-yy1tgj.rb extconf.rb
+>>>>> Creating Makefile for ruby version 2.4.1 on x86_64-darwin16 <<<<<
+creating Makefile
+
+current directory: /Users/manato/workspace/graphql/vendor/bundle/ruby/2.4.0/gems/oj-3.3.9/ext/oj
+make "DESTDIR=" clean
+
+current directory: /Users/manato/workspace/graphql/vendor/bundle/ruby/2.4.0/gems/oj-3.3.9/ext/oj
+make "DESTDIR="
+compiling cache8.c
+compiling circarray.c
+compiling code.c
+compiling compat.c
+compiling custom.c
+compiling dump.c
+compiling dump_compat.c
+compiling dump_leaf.c
+compiling dump_object.c
+compiling dump_strict.c
+compiling err.c
+compiling fast.c
+compiling hash.c
+compiling hash_test.c
+compiling mimic_json.c
+compiling object.c
+compiling odd.c
+compiling oj.c
+compiling parse.c
+compiling rails.c
+compiling reader.c
+compiling resolve.c
+compiling rxclass.c
+compiling saj.c
+compiling scp.c
+compiling sparse.c
+compiling stream_writer.c
+compiling strict.c
+compiling string_writer.c
+compiling val_stack.c
+compiling wab.c
+linking shared-object oj/oj.bundle
+
+current directory: /Users/manato/workspace/graphql/vendor/bundle/ruby/2.4.0/gems/oj-3.3.9/ext/oj
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 oj.bundle ./.gem.20171209-14808-suxvep/oj

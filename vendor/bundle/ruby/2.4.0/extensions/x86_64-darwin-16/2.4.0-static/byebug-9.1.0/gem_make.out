@@ -1,0 +1,19 @@
+current directory: /Users/manato/workspace/graphql/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+/Users/manato/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20171119-62296-1shch9w.rb extconf.rb
+creating Makefile
+
+current directory: /Users/manato/workspace/graphql/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/manato/workspace/graphql/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/manato/workspace/graphql/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20171119-62296-fu5x67/byebug
